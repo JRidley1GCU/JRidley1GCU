@@ -1,7 +1,7 @@
 👋 Hi, I’m James (JP) Ridley
 
 🎮 Aspiring Game Software Engineer
-📍 Denver, CO | 📫 jamespridley@gmail.com
+📍 Denver, CO 
 
 
 🚀 About Me
