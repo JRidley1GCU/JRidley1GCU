@@ -63,6 +63,4 @@ I aim to bring creativity, structure, and performance optimization to every proj
 
 ---
 
-## 🚀 Featured Projects
-- [Unity Prototype - FPS Movement System](https://github.com/jpridley/fps-movement)
-- [C# Gameplay Toolkit](https://github.com/jpridley/gameplay-toolkit)
+
