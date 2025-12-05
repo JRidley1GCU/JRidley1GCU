@@ -57,7 +57,6 @@ I aim to bring creativity, structure, and performance optimization to every proj
 ---
 
 ## 🔗 Connect With Me
-- 📫 [Email](mailto:jamespridley@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/jpridley)
 - 🎮 [Portfolio](https://jamespridley.carbonmade.com/)
 
